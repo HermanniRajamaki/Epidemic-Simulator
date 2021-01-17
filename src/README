@@ -1,0 +1,6 @@
+Compile with command (in this path):
+
+gfortran typemod.f90 filehandling.f90 mtfort90.f90 functionalitymod.f90 operationmod.f90 main.f90 
+
+
+
